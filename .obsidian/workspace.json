@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,8 +165,8 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8f3acce86f466e12",
+  "active": "321fdf40be56b1c1",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/01-General Skills/Lets Warm Up.md"
+    "picoCTF/01-General Skills/Lets Warm Up.md"
   ]
 }
