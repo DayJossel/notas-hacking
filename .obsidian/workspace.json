@@ -13,142 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01-General Skills/Lets Warm Up.md",
+                "file": "picoCTF/02-General Skills/useless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lets Warm Up"
-            }
-          },
-          {
-            "id": "d9c442c473d7e60c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/2Warm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2Warm"
-            }
-          },
-          {
-            "id": "dd82546bc09a3dfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/Warmed Up.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Warmed Up"
-            }
-          },
-          {
-            "id": "d87fe5f4e7aed2c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/Bases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bases"
-            }
-          },
-          {
-            "id": "5b687b57813b9f68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/First Grep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First Grep"
-            }
-          },
-          {
-            "id": "fe4a74e88afa00fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/Obedient Cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obedient Cat"
-            }
-          },
-          {
-            "id": "1e9e80e955fcaf80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/what's a net cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "what's a net cat"
-            }
-          },
-          {
-            "id": "66b879f50dfcdf4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/plumbing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "plumbing"
-            }
-          },
-          {
-            "id": "6cdff502ecabecb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/Glitch Cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glitch Cat"
-            }
-          },
-          {
-            "id": "e172a6fa21c7e765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01-General Skills/Lets Warm Up.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lets Warm Up"
+              "title": "useless"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -292,18 +165,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e172a6fa21c7e765",
+  "active": "8f3acce86f466e12",
   "lastOpenFiles": [
-    "picoCTF/01-General Skills/Nice netcat....md",
-    "picoCTF/01-General Skills/Glitch Cat.md",
-    "picoCTF/01-General Skills/plumbing.md",
+    "picoCTF/02-General Skills/First Find.md",
+    "picoCTF/02-General Skills/Big Zip.md",
+    "picoCTF/02-General Skills/repetitions.md",
+    "picoCTF/02-General Skills/Magikarp Ground Mission.md",
+    "picoCTF/02-General Skills/Based.md",
+    "picoCTF/02-General Skills/Tab, Tab, Attack.md",
+    "picoCTF/01-General Skills/2Warm.md",
+    "picoCTF/02-General Skills/strings it.md",
+    "picoCTF/02-General Skills/useless.md",
+    "picoCTF/02-General Skills/Static ain't always noise.md",
+    "picoCTF/02-General Skills/Wave a flag.md",
+    "picoCTF/01-General Skills/Lets Warm Up.md",
+    "picoCTF/02-General Skills",
+    "picoCTF/01-General Skills/Warmed Up.md",
+    "picoCTF/01-General Skills/Bases.md",
+    "picoCTF/01-General Skills/First Grep.md",
     "picoCTF/01-General Skills/Obedient Cat.md",
     "picoCTF/01-General Skills/what's a net cat.md",
-    "picoCTF/01-General Skills/First Grep.md",
-    "picoCTF/01-General Skills/Bases.md",
-    "picoCTF/01-General Skills/Warmed Up.md",
-    "picoCTF/01-General Skills/Lets Warm Up.md",
-    "picoCTF/01-General Skills/2Warm.md",
+    "picoCTF/01-General Skills/plumbing.md",
+    "picoCTF/01-General Skills/Glitch Cat.md",
+    "picoCTF/01-General Skills/Nice netcat....md",
     "README.md"
   ]
 }
