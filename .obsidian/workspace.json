@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 2 - Retos Web/WebDecode.md",
+                "file": "picoCTF/11 - picoCTF Web 4/Most Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebDecode"
+              "title": "Most Cookies"
             }
           }
         ]
@@ -167,11 +167,17 @@
   },
   "active": "8a5667f6ce1f58e6",
   "lastOpenFiles": [
-    "picoCTF/Tarea 2 - Retos Web/Unminify.md",
+    "picoCTF/11 - picoCTF Web 4/Trickster.md",
+    "picoCTF/11 - picoCTF Web 4/Most Cookies.md",
+    "picoCTF/11 - picoCTF Web 4/MatchTheRegex.md",
+    "picoCTF/11 - picoCTF Web 4/SOAP.md",
+    "picoCTF/Tarea 2 - Retos Web/Roboto Sans.md",
+    "picoCTF/Sin título.md",
+    "picoCTF/11 - picoCTF Web 4",
     "picoCTF/Tarea 2 - Retos Web/WebDecode.md",
+    "picoCTF/Tarea 2 - Retos Web/Unminify.md",
     "picoCTF/Tarea 2 - Retos Web/SQLiLite.md",
     "picoCTF/Tarea 2 - Retos Web/Secrets.md",
-    "picoCTF/Tarea 2 - Retos Web/Roboto Sans.md",
     "picoCTF/Tarea 2 - Retos Web/Power Cookie.md",
     "picoCTF/Tarea 2 - Retos Web/Local Authority.md",
     "picoCTF/Tarea 2 - Retos Web/IntroToBurp.md",
@@ -193,11 +199,6 @@
     "picoCTF/09 - picoCTF Web 2/GET aHEAD.md",
     "picoCTF/08 - picoCTF Web 1/Client-side-again.md",
     "picoCTF/09 - picoCTF Web 2",
-    "picoCTF/08 - picoCTF Web 1/picobrowser.md",
-    "picoCTF/08 - picoCTF Web 1/dont-use-client-side.md",
-    "picoCTF/08 - picoCTF Web 1/logon.md",
-    "picoCTF/08 - picoCTF Web 1/where are the robots.md",
-    "picoCTF/08 - picoCTF Web 1/Insp3ct0r.md",
     "picoCTF/08 - picoCTF Web 1",
     "picoCTF/Tarea 1 - General Skills",
     "picoCTF/03-General Skills 3",
