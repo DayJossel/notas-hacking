@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 - picoCTF - Forensic 2/shark on wire 2.md",
+                "file": "Examen/Primer Examen Parcial - Parte 2 - Web/WebSockFish.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shark on wire 2"
+              "title": "WebSockFish"
             }
           }
         ]
@@ -170,18 +170,37 @@
   },
   "active": "6b72e391e226cab2",
   "lastOpenFiles": [
+    "Examen/Primer Examen Parcial - Parte 2 - Web/head-dump.md",
+    "Examen/Primer Examen Parcial - Parte 2 - Web/WebSockFish.md",
+    "Examen/Primer Examen Parcial - Parte 2 - Web/SSTI2.md",
+    "Examen/Primer Examen Parcial - Parte 2 - Web/SQL Direct.md",
+    "Examen/Primer Examen Parcial - Parte 2 - Web/Java Code Analysis.md",
+    "Examen/Primer Examen Parcial - Parte 2 - Web/findme.md",
+    "Examen/Primer Examen Parcial - Parte 2 - Web/SSTI1.md",
+    "Examen/Primer Examen Parcial - Parte 2 - Web/n0s4n1ty 1.md",
+    "13 - picoCTF - Forensic 2/shark on wire 2.md",
+    "Examen/Primer Examen Parcial - Parte 2 - Web/Cookie Monster Secret Recipe.md",
+    "Examen/Primer Examen Parcial - Parte 2 - Web/Bookmarklet.md",
+    "Examen/Primer Parcial - Parte 1 - General Skills/Specialer.md",
+    "Examen/Primer Examen Parcial - Parte 2 - Web",
+    "Examen/Primer Parcial - Parte 1 - General Skills/Sin nombre",
+    "Examen/Primer Examen Parcial - Parte 2 - Web.md",
+    "Examen",
+    "Examen/Primer Parcial - Parte 1 - General Skills/SansAlpha.md",
+    "Examen/Primer Parcial - Parte 1 - General Skills/flag_shop.md",
+    "Examen/Primer Parcial - Parte 1 - General Skills/dont-you-love-banners.md",
+    "Examen/Primer Parcial - Parte 1 - General Skills/Rust fixme 3.md",
+    "Examen/Primer Parcial - Parte 1 - General Skills/Rust fixme 2.md",
+    "Examen/Primer Parcial - Parte 1 - General Skills/Rust fixme 1.md",
+    "Examen/Primer Parcial - Parte 1 - General Skills/Python Wrangling.md",
+    "Examen/Primer Parcial - Parte 1 - General Skills/HashingJobApp.md",
+    "Examen/Primer Parcial - Parte 1 - General Skills/FANTASY CTF.md",
+    "Examen/Primer Parcial - Parte 1 - General Skills",
     "13 - picoCTF - Forensic 2/c0rrupt.md",
     "13 - picoCTF - Forensic 2/m00nwalk.md",
-    "13 - picoCTF - Forensic 2/shark on wire 2.md",
     "13 - picoCTF - Forensic 2/like1000.md",
     "13 - picoCTF - Forensic 2/WhitePages.md",
-    "12 - picoCTF - Forensic 1/What Lies Within.md",
     "13 - picoCTF - Forensic 2",
-    "12 - picoCTF - Forensic 1/shark on wire 1.md",
-    "12 - picoCTF - Forensic 1/So Meta.md",
-    "12 - picoCTF - Forensic 1/Glory of the Garden.md",
-    "12 - picoCTF - Forensic 1/extensions.md",
-    "Tarea 1 - General Skills/committee issue.md",
     "12 - picoCTF - Forensic 1"
   ]
 }
