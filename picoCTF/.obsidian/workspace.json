@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examen/Primer Examen Parcial - Parte 2 - Web/WebSockFish.md",
+                "file": "14 - picoCTF Forensic/MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebSockFish"
+              "title": "MacroHard WeakEdge"
             }
           }
         ]
@@ -170,8 +170,15 @@
   },
   "active": "6b72e391e226cab2",
   "lastOpenFiles": [
-    "Examen/Primer Examen Parcial - Parte 2 - Web/head-dump.md",
+    "14 - picoCTF Forensic/Matryoshka doll.md",
+    "14 - picoCTF Forensic/MacroHard WeakEdge.md",
+    "14 - picoCTF Forensic/tunn3l v1s10n.md",
+    "14 - picoCTF Forensic/WebNet0.md",
+    "14 - picoCTF Forensic/WebNet1.md",
+    "13 - picoCTF - Forensic 2/WhitePages.md",
     "Examen/Primer Examen Parcial - Parte 2 - Web/WebSockFish.md",
+    "14 - picoCTF Forensic",
+    "Examen/Primer Examen Parcial - Parte 2 - Web/head-dump.md",
     "Examen/Primer Examen Parcial - Parte 2 - Web/SSTI2.md",
     "Examen/Primer Examen Parcial - Parte 2 - Web/SQL Direct.md",
     "Examen/Primer Examen Parcial - Parte 2 - Web/Java Code Analysis.md",
@@ -193,13 +200,7 @@
     "Examen/Primer Parcial - Parte 1 - General Skills/Rust fixme 2.md",
     "Examen/Primer Parcial - Parte 1 - General Skills/Rust fixme 1.md",
     "Examen/Primer Parcial - Parte 1 - General Skills/Python Wrangling.md",
-    "Examen/Primer Parcial - Parte 1 - General Skills/HashingJobApp.md",
-    "Examen/Primer Parcial - Parte 1 - General Skills/FANTASY CTF.md",
     "Examen/Primer Parcial - Parte 1 - General Skills",
-    "13 - picoCTF - Forensic 2/c0rrupt.md",
-    "13 - picoCTF - Forensic 2/m00nwalk.md",
-    "13 - picoCTF - Forensic 2/like1000.md",
-    "13 - picoCTF - Forensic 2/WhitePages.md",
     "13 - picoCTF - Forensic 2",
     "12 - picoCTF - Forensic 1"
   ]
