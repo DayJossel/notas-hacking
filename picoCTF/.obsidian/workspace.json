@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15 -  picoCTF - Forensic 4/Operation Oni.md",
+                "file": "Tarea 3 - Forensic/flags are stepic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operation Oni"
+              "title": "flags are stepic"
             }
           }
         ],
@@ -185,15 +185,26 @@
   },
   "active": "4fdb6c8b751b5f9c",
   "lastOpenFiles": [
-    "15 -  picoCTF - Forensic 4/Operation Orchid.md",
+    "Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
+    "Tarea 3 - Forensic/flags are stepic.md",
+    "Tarea 3 - Forensic/Secret of the Polyglot.md",
+    "Tarea 3 - Forensic/RED.md",
+    "14 - picoCTF Forensic/MacroHard WeakEdge.md",
+    "Tarea 3 - Forensic/CanYouSee.md",
+    "Tarea 3 - Forensic/Scan Surprise.md",
+    "Tarea 3 - Forensic/hideme.md",
+    "Tarea 3 - Forensic/Redaction gone wrong.md",
+    "Tarea 3 - Forensic/St3g0.md",
+    "Tarea 3 - Forensic/information.md",
     "15 -  picoCTF - Forensic 4/Operation Oni.md",
+    "Tarea 3 - Forensic",
+    "15 -  picoCTF - Forensic 4/Operation Orchid.md",
     "15 -  picoCTF - Forensic 4/Sleuthkit Apprentice.md",
     "15 -  picoCTF - Forensic 4/Sleuthkit Intro.md",
     "15 -  picoCTF - Forensic 4/Disk, disk, sleuth!.md",
     "15 -  picoCTF - Forensic 4/Milkslap.md",
     "15 -  picoCTF - Forensic 4",
     "14 - picoCTF Forensic/Matryoshka doll.md",
-    "14 - picoCTF Forensic/MacroHard WeakEdge.md",
     "14 - picoCTF Forensic/tunn3l v1s10n.md",
     "14 - picoCTF Forensic/WebNet0.md",
     "14 - picoCTF Forensic/WebNet1.md",
@@ -203,19 +214,9 @@
     "Examen/Primer Examen Parcial - Parte 2 - Web/head-dump.md",
     "Examen/Primer Examen Parcial - Parte 2 - Web/SSTI2.md",
     "Examen/Primer Examen Parcial - Parte 2 - Web/SQL Direct.md",
-    "Examen/Primer Examen Parcial - Parte 2 - Web/Java Code Analysis.md",
-    "Examen/Primer Examen Parcial - Parte 2 - Web/findme.md",
-    "Examen/Primer Examen Parcial - Parte 2 - Web/SSTI1.md",
-    "Examen/Primer Examen Parcial - Parte 2 - Web/n0s4n1ty 1.md",
-    "13 - picoCTF - Forensic 2/shark on wire 2.md",
-    "Examen/Primer Examen Parcial - Parte 2 - Web/Cookie Monster Secret Recipe.md",
-    "Examen/Primer Examen Parcial - Parte 2 - Web/Bookmarklet.md",
-    "Examen/Primer Parcial - Parte 1 - General Skills/Specialer.md",
     "Examen/Primer Examen Parcial - Parte 2 - Web",
     "Examen/Primer Parcial - Parte 1 - General Skills/Sin nombre",
-    "Examen/Primer Examen Parcial - Parte 2 - Web.md",
     "Examen",
-    "Examen/Primer Parcial - Parte 1 - General Skills/SansAlpha.md",
     "Examen/Primer Parcial - Parte 1 - General Skills",
     "13 - picoCTF - Forensic 2",
     "12 - picoCTF - Forensic 1"
