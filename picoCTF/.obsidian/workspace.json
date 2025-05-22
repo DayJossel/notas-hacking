@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16 - picoCTF Crypto - Parte 1/interencdec.md",
+                "file": "17 - Retos Crypto 2/rsa pop quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interencdec"
+              "title": "rsa pop quiz"
             }
           }
         ],
@@ -197,10 +197,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8a6247c791a37f75",
+  "active": "a6ccefa608035bdc",
   "lastOpenFiles": [
-    "16 - picoCTF Crypto - Parte 1/waves over lambda.md",
     "16 - picoCTF Crypto - Parte 1/interencdec.md",
+    "17 - Retos Crypto 2/rsa pop quiz.md",
+    "17 - Retos Crypto 2",
+    "16 - picoCTF Crypto - Parte 1/waves over lambda.md",
     "16 - picoCTF Crypto - Parte 1/Tapping.md",
     "16 - picoCTF Crypto - Parte 1/la cifra de.md",
     "16 - picoCTF Crypto - Parte 1/Easy 1.md",
@@ -227,13 +229,11 @@
     "15 -  picoCTF - Forensic 4/Disk, disk, sleuth!.md",
     "15 -  picoCTF - Forensic 4/Milkslap.md",
     "15 -  picoCTF - Forensic 4",
-    "14 - picoCTF Forensic/Matryoshka doll.md",
     "14 - picoCTF Forensic",
     "Examen/Primer Examen Parcial - Parte 2 - Web",
     "Examen/Primer Parcial - Parte 1 - General Skills/Sin nombre",
     "Examen",
     "Examen/Primer Parcial - Parte 1 - General Skills",
-    "13 - picoCTF - Forensic 2",
-    "12 - picoCTF - Forensic 1"
+    "13 - picoCTF - Forensic 2"
   ]
 }
